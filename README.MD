@@ -1,22 +1,22 @@
 ## Overview
 
-**HELLO WORLD**:
+**Project Title**: Hello World 
 
-**Print 'Hello World'**:
+**Project Description**: Display Hello World in Python 
 
-**Output Hello World**:
+**Project Goals**: Have the output display correctly. 
 
 ## Instructions for Build and Use
 
 Steps to build and/or run the software:
 
-1. Print Statement
-2. Input Hello World inside ""
+1. Print Hello World 
+2. Run Python file 
 3.
 
 Instructions for using the software:
 
-1. Python
+1. Use a print statemnent only. 
 2.
 3.
 
@@ -24,22 +24,22 @@ Instructions for using the software:
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-* Latest version of Python Downloaded. 
-*
-*
+* Have VSCode downloaded
+* Have Python downloaded 
+* Have Git set up 
 
 ## Useful Websites to Learn More
 
 I found these websites useful in developing this software:
 
-* [Website Title](Link)
-* N/A
+* [W3 Schools](https://www.w3schools.com/python/)
+*
 *
 
 ## Future Work
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
-* [ ]
+* [ ] Add '!' to end of sentence
+* [ ] Use an \n for new line
+* [ ] Use upper to get all caps
